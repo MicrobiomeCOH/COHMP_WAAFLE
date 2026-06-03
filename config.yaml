@@ -1,0 +1,4 @@
+contig_dir: /scratch/dichen/Ryo_IRB18197-CBM588/contigs
+reads_dir: /scratch/dichen/Ryo_IRB18197-CBM588/hostdepleted
+waafle_db: /coh_labs/microbiome/apollo/resources/dbs/chocophlan2/chocophlan2
+taxonomy: /coh_labs/microbiome/apollo/resources/dbs/chocophlan2/chocophlan2_taxonomy.tsv
