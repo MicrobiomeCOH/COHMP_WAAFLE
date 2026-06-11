@@ -64,7 +64,7 @@ For each sample, five rules run in sequence (the junction track runs in parallel
 
 ## Requirements
 
-This pipeline assumes the standard COH analytical-core environment:
+This pipeline assumes the standard COH microbiome program snakemake environment:
 
 - **Snakemake** and **WAAFLE** available on `PATH` (via the cluster module system or a shared conda environment). The five `waafle_*` commands must be callable.
 - **BLAST+** (pulled in as a WAAFLE dependency) for the search step.
