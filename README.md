@@ -12,7 +12,7 @@ A [Snakemake](https://snakemake.readthedocs.io/) pipeline that runs **WAAFLE** (
 
 **This pipeline** adapts WAAFLE for the analytical core's standard practice. The upstream tool processes one contig file at a time; here, Snakemake discovers every sample in a project automatically, builds the dependency graph linking the five WAAFLE steps, and submits each step as a right-sized SLURM job — giving reproducible, parallel, multi-sample runs from a single command.
 
-> For the full algorithm, benchmarks, and biological findings, see the paper (`waafle_paper.pdf` in this repo) and the upstream project: <https://github.com/biobakery/waafle>.
+> For the full algorithm, benchmarks, and biological findings, check the paper (Hsu et al., *Nature Microbiology* 2025) and the upstream repo: <https://github.com/biobakery/waafle>.
 
 ---
 
