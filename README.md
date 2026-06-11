@@ -254,8 +254,7 @@ If you use results from this pipeline, cite the WAAFLE paper:
 
 - Upstream WAAFLE repository: <https://github.com/biobakery/waafle>
 - WAAFLE on PyPI: <https://pypi.org/project/waafle/>
-- Paper PDF: `waafle_paper.pdf` (in this repository)
 
 ---
 
-*Pipeline maintained by the COH Microbiome analytical core. For pipeline issues (sample discovery, SLURM, config), contact the maintainer; for WAAFLE algorithm questions, see the upstream repository.*
+*Pipeline maintained by the COH Microbiome Program core. For pipeline issues (sample discovery, SLURM, config), contact the maintainer; for WAAFLE algorithm questions, see the upstream repository.*
